@@ -1,0 +1,2 @@
+matched_weeks,correlation,correlation_excluding_jan23_and_jan30,slope,intercept,r_squared,highest_daily_price,highest_daily_price_date,note
+39,-0.6080120555188814,-0.538727113996984,-0.04502079952408239,3.7065367159352216,0.3696786596562953,30.72,2026-01-23,Association only; this simple regression is not a causal or forecasting model.
